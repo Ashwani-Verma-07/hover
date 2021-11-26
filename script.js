@@ -1,0 +1,2 @@
+var bgcolor = new Array("#552B21", "#3d2306", "#2e0524", "#11524d ", "#063305 ", "#381b15 ", "#1B0203", "#2a064a", "#082a4a", "#121211")
+document.body.style.background = bgcolor[Math.floor(Math.random() * bgcolor.length)]
